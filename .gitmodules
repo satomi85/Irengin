@@ -1,0 +1,3 @@
+[submodule "Irengin/vendor/spdlog"]
+	path = Irengin/vendor/spdlog
+	url = https://github.com/gabime/spdlog
